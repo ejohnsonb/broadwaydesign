@@ -2,6 +2,19 @@ html {
 	font-family: Helvetica;
 	text-align: center
 }
+
 div#header{
-	text-align: center;
+	background-image: url(/users/ericjohnson/Documents/broadwaydesign-master/resources/images/the-flatiron-building.png);
+}
+
+.white {
+	color: white;
+	background-image: url(/users/ericjohnson/Documents/broadwaydesign-master/resources/images/the-flatiron-building.png)
+}
+
+
+div#footer {
+	text-align: left;
+
+
 }
